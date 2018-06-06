@@ -1,19 +1,24 @@
 # Multi-Exchange-Mobile-App
 Multi Crypto Exchange to save time and trade on Multiple Exchanges
 
-![](http://intersens.net/crypto-exchange-app/demo3ab.gif)
+![](https://multiexchange.co/screencast1.gif)
 
 ## MAIN FEATURES 
 
-* Ready to trade – needs just API keys
-* Market Listing
-* Market Page with Live Candle Stick Chart (OHLC)
+* Unified Crypto Exchange
+* Trade – Buy Limit / Sell Limit
+* Cancel Order
+* Order Poller / Live stream
+* Crypto Markets List
+* Market Page with Candle Stick Chart ( OHLCV / Live update )
 * Open Orders Page
 * Order History Page
-* Balances Page (Shows balance in use/open orders)
-* Exchanges - switch exchange
+* Balances Page
+* Exchanges Page – set API credentials of the exchange
 
-![](http://intersens.net/crypto-exchange-app/demo1ab.gif)
+you can find more info on https://multiexchange.co
+
+![](https://multiexchange.co/screencast2.gif)
 
 
 ## Donate
