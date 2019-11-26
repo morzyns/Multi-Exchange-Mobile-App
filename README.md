@@ -17,6 +17,7 @@ Multi Crypto Exchange to save time and trade on Multiple Exchanges
 * Exchanges Page – set API credentials of the exchange
 
 you can find more info on https://multiexchange.co
+you can find more info on https://multiexchange.co
 
 ![](https://multiexchange.co/screencast2.gif)
 
